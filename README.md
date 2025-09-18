@@ -73,8 +73,8 @@ This low RMSE value indicates that, on average, the model's predictions are very
 
 The plot below shows a comparison of the model's predictions against the actual values on the test set, visually confirming its high performance.
 
-![Test Predictions vs Actual Values](https://i.imgur.com/GzB9YVq.png)
-*(You will need to take a screenshot of your final graph and upload it to a site like Imgur to get a link, or add it directly to your repository)*
+![Test Predictions vs Actual Values](https://imgur.com/A8nYyB6)
+
 
 ## Technologies Used
 
